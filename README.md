@@ -94,7 +94,7 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
+    <a href="https://www.linkedin.com/in/leonardogvpinheiro/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="youtube" width="40px"/>
     </a>
 </div>
